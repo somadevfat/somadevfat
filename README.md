@@ -7,7 +7,6 @@
 ### 好きなこと
 - ゼロからのサービス開発
 - 個人開発（Webアプリケーション、Androidアプリなど）
-- モダンな技術スタックを使った実践的なアプリケーション構築
 - 学習したことを実際のプロダクトに活かすこと
 
 現在運用中の [フルスタックブログサイト](https://github.com/somadevfat/somadev-pages) では、Spring Boot + Next.js + PostgreSQL の組み合わせで本格的なCMSを構築し、Google Cloud VM とVercelでの本番デプロイを実現しています。また、Java Silver の学習過程で作成した [クイズアプリ](https://github.com/somadevfat/quiz-app-contentful) では、Firebase認証やContentful CMS連携なども実装しました。
