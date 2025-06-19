@@ -2,7 +2,7 @@
 
 こんにちは、Somaです！東京を拠点にJavaバックエンドエンジニアを目指し、個人開発を通じて学習を続けています。現在は [fanda-dev.com](https://fanda-dev.com) でポートフォリオサイトを運営しており、実際に本番環境でWebアプリケーションを運用しています。
 
-何かご質問やお話したいことがありましたら、お気軽に [メール](mailto:somahiranodev@gmail.com) や [LinkedIn](https://www.linkedin.com/in/somahirano/) でご連絡ください。技術的な話や新しい機会について議論するのが大好きです。
+何かご質問やお話したいことがありましたら、お気軽に [メール](mailto:somahiranodev@gmail.com) や [LinkedIn](https://www.linkedin.com/in/somahirano/) でご連絡ください。
 
 ### 好きなこと
 - ゼロからのサービス開発
