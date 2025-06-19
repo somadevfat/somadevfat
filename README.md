@@ -11,18 +11,11 @@
 
 現在運用中の [フルスタックブログサイト](https://github.com/somadevfat/somadev-pages) では、Spring Boot + Next.js + PostgreSQL の組み合わせで本格的なCMSを構築し、Google Cloud VM とVercelでの本番デプロイを実現しています。また、Java Silver の学習過程で作成した [クイズアプリ](https://github.com/somadevfat/quiz-app-contentful) では、Firebase認証やContentful CMS連携なども実装しました。
 
-### 専門分野
-- Java, Spring Boot, PostgreSQL によるバックエンド開発
-- Android開発（Java/Kotlin）、Jetpack Compose
-- Next.js, React, TypeScript によるフロントエンド開発
-- Docker, Google Cloud Platform を使ったインフラ・デプロイメント
-- Firebase, Contentful などのクラウドサービス連携
-
-### 現在学習中
-- Spring Boot の詳細設計パターンとセキュリティ
-- Android Jetpack の最新機能
-- クラウドセキュリティのベストプラクティス
-- マイクロサービスアーキテクチャ
+### 主に学習・取り組んでいる技術領域
+実務経験はまだありませんが、個人開発を通じて以下の技術を重点的に学習しています。
+- Java, Spring Boot, PostgreSQL を用いたバックエンド開発
+- Docker および Google Cloud Platform を活用したインフラ／デプロイメント
+- Firebase や Contentful などのクラウドサービス連携
 
 ### 経歴
 
