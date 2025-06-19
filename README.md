@@ -1,85 +1,71 @@
-# 👋 Hi, I'm Soma
+## 自己紹介👋
 
-**Java開発者** | **Android開発** | **フルスタック志向**
+こんにちは、Somaです！東京を拠点にJavaバックエンドエンジニアを目指し、個人開発を通じて学習を続けています。現在は [fanda-dev.com](https://fanda-dev.com) でポートフォリオサイトを運営しており、実際に本番環境でWebアプリケーションを運用しています。
 
-🌐 **Portfolio Website**: [fanda-dev.com](https://fanda-dev.com)
+何かご質問やお話したいことがありましたら、お気軽に [メール](mailto:somahiranodev@gmail.com) や [LinkedIn](https://www.linkedin.com/in/somahirano/) でご連絡ください。技術的な話や新しい機会について議論するのが大好きです。
 
----
+### 好きなこと
+- ゼロからのサービス開発
+- 個人開発（Webアプリケーション、Androidアプリなど）
+- モダンな技術スタックを使った実践的なアプリケーション構築
+- 学習したことを実際のプロダクトに活かすこと
 
-## 🚀 Tech Stack
+現在運用中の [フルスタックブログサイト](https://github.com/somadevfat/somadev-pages) では、Spring Boot + Next.js + PostgreSQL の組み合わせで本格的なCMSを構築し、Google Cloud VM とVercelでの本番デプロイを実現しています。また、Java Silver の学習過程で作成した [クイズアプリ](https://github.com/somadevfat/quiz-app-contentful) では、Firebase認証やContentful CMS連携なども実装しました。
 
-### 💻 Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### 専門分野
+- Java, Spring Boot, PostgreSQL によるバックエンド開発
+- Android開発（Java/Kotlin）、Jetpack Compose
+- Next.js, React, TypeScript によるフロントエンド開発
+- Docker, Google Cloud Platform を使ったインフラ・デプロイメント
+- Firebase, Contentful などのクラウドサービス連携
 
-### 📱 Mobile
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### 🛠️ Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-
-### ☁️ Cloud & Deployment
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 📊 Featured Projects
-
-### 🌐 [フルスタックブログサイト](https://github.com/somadevfat/somadev-pages)
-**Spring Boot + Next.js + PostgreSQL**
-- ユーザー認証・権限管理機能
-- 記事CRUD操作
-- Docker環境での開発
-- **本番運用中**: バックエンド（Google Cloud VM）+ フロントエンド（Vercel）でデプロイ済み
-
-### 📱 [Java Silver対策クイズアプリ](https://github.com/somadevfat/quiz-app-contentful)
-**Android (Java/Kotlin)**
-- Room Database での問題管理
-- Firebase認証連携
-- Jetpack Compose UI
-
-### 🔧 [コードスニペット管理ツール](https://github.com/somadevfat/somadevfat-SnippetButton)
-**Jetpack Compose Desktop**
-- クロスプラットフォーム対応
-- ローカルデータ永続化
-- 検索・分類機能
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=somadevfat&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=somadevfat&layout=compact&theme=default&hide_border=true)
-
----
-
-## 🎯 Deployment Experience & Learning
-
-### 💪 実運用経験
-- **Google Cloud Platform**: VM インスタンスでのバックエンド運用
-- **Vercel**: フロントエンドの継続的デプロイ
-- **本番環境でのデータベース管理**（PostgreSQL）
-
-### 📚 現在学習中
-- Spring Boot の詳細設計パターン
+### 現在学習中
+- Spring Boot の詳細設計パターンとセキュリティ
 - Android Jetpack の最新機能
 - クラウドセキュリティのベストプラクティス
+- マイクロサービスアーキテクチャ
+
+### 経歴
+
+**金相場トレーダー (XAU/USD専門)**
+- 東京時間帯に特化し、3年間専業トレーダーとして活動
+- [相場分析効率化インジケーター](https://github.com/somadevfat/soma-gold-volatility) をMQL5とPine Scriptで開発
+
+### 主要プロジェクト
+
+#### 🌐 [フルスタックブログサイト](https://github.com/somadevfat/somadev-pages)
+**Spring Boot + Next.js + PostgreSQL**
+- JWT認証・ロールベースアクセス制御機能
+- 記事CRUD操作、管理画面UI
+- Docker環境での開発、CI/CD自動化
+- **本番運用中**: バックエンド（Google Cloud VM）+ フロントエンド（Vercel）
+- JUnit5 + Playwright による自動テスト
+
+#### 📱 [Java Silver学習クイズアプリ](https://github.com/somadevfat/quiz-app-contentful)
+**Android (Java/Kotlin)**
+- Java Silver認定試験対策のクイズ機能
+- Firebase認証、Contentful CMS連携
+- Room Database による学習履歴管理
+- Jetpack Compose による一部UI実装
+- 分野別学習・学習統計・ブックマーク機能
+
+#### 🔧 [SnippetButton](https://github.com/somadevfat/somadevfat-SnippetButton)
+**Jetpack Compose Desktop**
+- コードスニペット管理デスクトップアプリ
+- クロスプラットフォーム対応（Windows/Mac/Linux）
+- 検索・分類・インポート機能
+- ローカルデータ永続化
+
+## 統計📊
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=somadevfat&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/somadevfat/)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=somadevfat&layout=compact&theme=tokyonight)](https://github.com/somadevfat/)
 
 ---
 
-## 📫 Contact
+## 連絡先
 
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fanda-dev.com/blog)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fanda-dev.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/somadevfat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somahirano/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somahiranodev@gmail.com)
-
----
-
-⚡ **Fun fact**: Java Silverの勉強をきっかけに、実際にAndroidアプリを作ってしまいました！ 
